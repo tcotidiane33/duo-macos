@@ -55,3 +55,11 @@ Please report any bugs, feature requests, or issues to us directly at support@du
 Thank you for using Duo!
 
 https://duo.com/
+
+
+# C'est sans doute parce que vous utilisez l'édition gratuite (Free) de Duo. Malheureusement, l'API Admin (nécessaire pour le script Splunk) n'est disponible que dans les versions payantes (Essentials, Advantage, Premier) ou en version d'essai.
+
+## Si vous voulez vraiment tester le script Splunk :
+
+Vous pouvez activer un essai de 30 jours (Advantage Trial) dans votre console Duo.
+Sinon, vous ne pourrez pas utiliser l'API Admin.
